@@ -1,0 +1,50 @@
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.dll.config
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.Controls.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.Controls.Imaging.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.Controls.Vision.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.Fuzzy.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.Imaging.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.Math.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.Statistics.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.Video.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.Vision.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ZedGraph.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.Controls.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.Controls.Imaging.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.Controls.Vision.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.Fuzzy.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.Imaging.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.Math.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.Statistics.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.Video.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Accord.Vision.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ZedGraph.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\TestAccord.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\git\TestAccord\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\git\TestAccord\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\git\TestAccord\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\git\TestAccord\TestAccord\bin\Debug\ConsoleApplication3.exe.config
+C:\git\TestAccord\TestAccord\obj\Debug\ConsoleApplication3.exe
+C:\git\TestAccord\TestAccord\obj\Debug\ConsoleApplication3.pdb
